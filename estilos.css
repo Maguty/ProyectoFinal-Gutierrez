@@ -1,0 +1,40 @@
+
+
+
+header{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: gray;
+    color: white;
+    margin-top: 25px;
+}
+
+.agregar{
+    justify-content: center;
+    text-align: center;
+    margin-top: 25px;
+    background-color: beige;
+}
+
+h3{
+    color: black;
+}
+
+.contenedor__tareas{
+    margin-top: 15px;
+}
+
+.contenedor__buscar{
+    justify-content: center;
+    text-align: center;
+    margin-top: 25px;
+    background-color: beige;
+}
+
+.tabla{
+    justify-content: center;
+    text-align: center;
+    margin-top: 25px;
+    background-color: beige;
+}
